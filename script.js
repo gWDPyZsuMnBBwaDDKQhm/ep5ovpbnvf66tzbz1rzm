@@ -39,7 +39,7 @@ var TxtType = function(el, toRotate, period) {
     }, delta);
    };
     
-   var languages = `["It's not time yet", "現在還沒來", "Aún no es tiempo", "अभी व़क्त नहीं हुआ है", "Ещё не время", "انها لم يحن الوقت بعد", "Ce n'est pas encore le moment", "まだ時間ではありません", "Es ist noch nicht Zeit", "아직 시간이 아니야"]`;
+   var languages = `["It's not time yet", "現在還沒來", "Aún no es tiempo", "अभी व़क्त नहीं हुआ है", "Ещё не время", "انها لم يحن الوقت بعد", "Ce n'est pas encore le moment", "まだ時間がありません", "Es ist noch nicht Zeit", "아직 시간이 아니야"]`;
     
    window.onload = function() {
     var elements = document.getElementsByClassName('typewrite');
